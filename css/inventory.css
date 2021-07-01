@@ -1,0 +1,26 @@
+.search_car_wrapper {
+    margin-bottom: 27px;
+}
+
+.search_btn_wrapper {
+    height: 40px;
+}
+.search_btn_wrapper button{
+    height: 100%;
+}
+
+.range-slider .mileage input {
+    background: rgba(0,0,0,0) none repeat scroll 0 0;
+    border: 0 none;
+    color: #303030;
+    display: inline-block;
+    float: right;
+    font-family: "Open Sans",sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    height: inherit;
+    margin-bottom: 0;
+    padding: 2px 0;
+    text-align: right;
+    width: 110px;
+}
